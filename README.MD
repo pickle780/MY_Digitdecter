@@ -1,4 +1,6 @@
-准备好requirements.txt的环境后
+=================================
+|准备好requirements.txt的环境后  |
+=================================
 在anaconda promote下，进入本文件夹
 输入
 pyinstaller test_mnist.spec --upx-dir=".\upx-4.0.2-win64"
