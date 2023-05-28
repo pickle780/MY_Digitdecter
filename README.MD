@@ -1,6 +1,6 @@
 效果展示:  
 ====
-![image](https://github.com/pickle780/MY_Digitdecter/blob/main/emnistRelated/gifs/emnist_test_show.gif)
+<img src="https://github.com/pickle780/MY_Digitdecter/blob/main/emnistRelated/gifs/emnist_test_show.gif" width="48">
 #### 使用  
 准备好requirements.txt的环境后  
 在anaconda promote下，进入本文件夹  
